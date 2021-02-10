@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\dev\Campfire\Campfire\src\Test.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\dev\Campfire\\bin\Debug-x64\Campfire\Campfire.lib and object C:\dev\Campfire\\bin\Debug-x64\Campfire\Campfire.exp
+  Campfire.vcxproj -> C:\dev\Campfire\\bin\Debug-x64\Campfire\Campfire.dll
